@@ -12,7 +12,7 @@ I prefer coffee or tea to beer. Not that beer is bad :)
 
 ## Camparison to [beerware license][1]
 
-It is the same but with the world `beer` replaced by `caffeine-containing drink`.
+It is the same but with the word `beer` replaced by `caffeine-containing drink`.
 
 ## Comparison to [coffeeware license][2]
 
