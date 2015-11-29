@@ -16,7 +16,9 @@ It is the same but with the word `beer` replaced by `caffeine-containing drink`.
 
 ## Comparison to [coffeeware license][2]
 
-Caffeineware License is not limited to just coffee but also includes other caffeine-containing drinks like tea, mate and so on.
+Caffeineware License does not contain the parts about `social networks` and `donating` because I find them too pushy.
+
+Also Caffeineware License is not limited to just coffee but also includes other caffeine-containing drinks like tea, mate and so on.
 
   [1]: https://en.wikipedia.org/wiki/Beerware
   [2]: https://github.com/Jmlevick/coffeeware-license
